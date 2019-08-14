@@ -17,8 +17,13 @@
 ## How to contant you if I find any infringement act?
    Use **e-mail or Discord**. We will put them up soon.
    
+## Acknowledgments
+   Thank for the people who gave us help.  
+   
+### Websites  
+   *Tech Support*: **YouTube (www.youtube.com), Reddit (www.reddit.com), etc.**
 ### Developers
    *Team:* **Endorma**  
-   *Personal:* **Tailsany7, FlifeX (@WaterproofPaper), GaryH (@GaiGai613)**  
+   *Personal:* **Tailsany7, FlifeX (@WaterproofPaper), GaryH (@GaiGai613), et al.**  
    
-*Last update: Aug. 14 2019, Version:1.0.3*
+*Last update: Aug. 14 2019, Version:1.1*
