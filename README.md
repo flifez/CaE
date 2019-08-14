@@ -1,4 +1,3 @@
-# CaE-Coins are Everything
 # "Coins are Everything" Overview
 "Coins are Everything" (CAE) is a mod that allows you to exchange Minecraft ***vanilla*** items into ***5 kinds of coins*** and use coins to get another items. 
 
