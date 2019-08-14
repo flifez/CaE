@@ -16,5 +16,9 @@
 
 ## How to contant you if I find any infringement act?
    Use **e-mail or Discord**. We will put them up soon.
-
-*Last update: Aug. 14 2019, Version:1.0.2*
+   
+### Developers
+   *Team:* **Endorma**  
+   *Personal:* **Tailsany7, FlifeX (@WaterproofPaper), GaryH (@GaiGai613)**  
+   
+*Last update: Aug. 14 2019, Version:1.0.3*
