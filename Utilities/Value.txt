@@ -1,3 +1,5 @@
+# Exchange value of all vanilla items (except for Enchantment Books).
+
 minecraft:stone:1
 minecraft:granite:16
 minecraft:polished_granite:16
