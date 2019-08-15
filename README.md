@@ -1,6 +1,6 @@
 # "Coins are Everything" Overview
    "Coins are Everything" (CaE) is a mod that allows you to exchange Minecraft ***vanilla*** items into ***5 kinds of coins*** and use coins to get another items.  
-   *Contributing Guideline:* **[Click here](https://github.com/WaterproofPaper/CaE-Coins-are-Everything/blob/master/CONTRIBUTING.md).**
+   *Contributing Guideline:* **[Click here](https://github.com/WaterproofPaper/CaE-Coins-are-Everything/blob/master/CONTRIBUTING.md).**  
    *Supported Language:* **English, Simplified Chinese.**  
    *THIS MOD USES **MIT** LICENSE.*
 
@@ -28,6 +28,6 @@
    *Tech Support*: **[YouTube](https://www.youtube.com), [Reddit](https://www.reddit.com), etc.**
 ### Developers
    *Team:* **Endorma**  
-   *Personal:* **Tailsany7, FlifeX (@WaterproofPaper), GaryH (@GaiGai613), et al.**  
+   *Personal:* **Tailsany7, FlifeX ([@WaterproofPaper](https://github.com/WaterproofPaper)), GaryH ([@GaiGai613](https://github.com/GaiGai613)), et al.**  
    
 *Last update: Aug. 14 2019, Version:1.1*
