@@ -14,7 +14,7 @@
         2. Sliver Coin;  
         3. Gold Coin;  
         4. Few Coins;  
-        5. Many Coins；  
+        5. Many Coins;    
         6. Super Coin.*
 
 ## I am interested in this mod. Can I clone it and pull requests?
