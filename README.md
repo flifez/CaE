@@ -24,7 +24,7 @@
    Thank for the people who gave us help.  
    
 ### Websites  
-   *Tech Support*: **YouTube (www.youtube.com), Reddit (www.reddit.com), etc.**
+   *Tech Support*: **[YouTube](www.youtube.com), [Reddit](www.reddit.com), etc.**
 ### Developers
    *Team:* **Endorma**  
    *Personal:* **Tailsany7, FlifeX (@WaterproofPaper), GaryH (@GaiGai613), et al.**  
