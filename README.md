@@ -47,4 +47,4 @@
       }
    ```
    
-*Last update: Aug. 14 2019, Version:1.1*
+*Last update: Aug. 16 2019, Version:1.1.3*
