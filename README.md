@@ -33,18 +33,5 @@
 ### Developers
    *Team:* **Endorma**  
    *Personal:* **Tailsany7, FlifeX ([@WaterproofPaper](https://github.com/WaterproofPaper)), GaryH ([@GaiGai613](https://github.com/GaiGai613)), et al.**  
-
-## Something boring
-
-   ```cpp
-      #include <iostream>
-      using namespace std;
-      
-      int main()
-      {
-         cout << "lol" << endl;
-         return 0;
-      }
-   ```
    
-*Last update: Aug. 16 2019, Version:1.1.3*
+*Last update: Aug. 27 2019, Version:1.1.4*
