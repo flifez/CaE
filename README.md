@@ -21,7 +21,7 @@
 ## I am interested in this mod. Can I clone it and pull requests?
    Exceedingly!
 
-## How to contant you if I find any infringement act?
+## How to content you if I find any infringement act?
    Use **e-mail or Discord**.  
    *Discord Server:* **[Click here](https://discord.gg/NuRUCDm).**
    
